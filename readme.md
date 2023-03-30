@@ -1,6 +1,12 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h2>
+Languages
+</h2>
+
+[![Javascript][Javascript]] [![Java][Java]] [![C#][C#]] [![Go][Go]] [![SQL][SQL]] [![Powershell][Powershell]] [![Bash][Bash]]
+
+<h2>
 Technologies
 </h2>
 
@@ -29,3 +35,12 @@ Technologies
 [heroku-url]: https://www.heroku.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+
+<!-- Languages -->
+[Javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB
+[Java]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=java&logoColor=61DAFB
+[C#]: https://img.shields.io/badge/C#-20232A?style=for-the-badge&logo=csharp&logoColor=61DAFB
+[Go]: https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=61DAFB
+[SQL]: https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=sql&logoColor=61DAFB
+[Powershell]: https://img.shields.io/badge/Powershell-20232A?style=for-the-badge&logo=powershell&logoColor=61DAFB
+[Bash]: https://img.shields.io/badge/Bash-20232A?style=for-the-badge&logo=gnubash&logoColor=61DAFB
