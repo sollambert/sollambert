@@ -39,10 +39,10 @@ Technologies
 [Net-url]: https://dotnet.microsoft.com/en-us/
 
 <!-- Languages -->
-[Javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB
-[Java]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=oracle&logoColor=61DAFB
-[C Sharp]: https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp&logoColor=61DAFB
-[Go]: https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=61DAFB
+[Javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=EFD81D
+[Java]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=oracle&logoColor=C84431
+[C Sharp]: https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp&logoColor=189f20
+[Go]: https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=00a7d0
 [SQL]: https://img.shields.io/badge/SQL-20232A?style=for-the-badge
-[Powershell]: https://img.shields.io/badge/Powershell-20232A?style=for-the-badge&logo=powershell&logoColor=61DAFB
-[Bash]: https://img.shields.io/badge/Bash-20232A?style=for-the-badge&logo=gnubash&logoColor=61DAFB
+[Powershell]: https://img.shields.io/badge/Powershell-20232A?style=for-the-badge&logo=powershell&logoColor=1f77c7
+[Bash]: https://img.shields.io/badge/Bash-d0d0d0?style=for-the-badge&logo=gnubash&logoColor=272e35
