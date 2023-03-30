@@ -1,8 +1,8 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-[![Node.js][Node.js]][Node-url][![Express][Express.js]][Express-url][![React][React.js]][React-url][![Redux][Redux]][Redux-url][![Redux-Saga][Reduxsaga]][Reduxsaga-url][![p5][p5.js]][p5-url][![Postgres][postgres]][postgres-url][![Heroku][heroku]][heroku-url]
+Technologies
+[![Node.js][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Redux][Redux]][Redux-url] [![Redux-Saga][Reduxsaga]][Reduxsaga-url] [![p5][p5.js]][p5-url] [![Postgres][postgres]][postgres-url] [![Heroku][heroku]][heroku-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
