@@ -1,8 +1,9 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<div>
+<h2>
 Technologies
-</div>
+</h2>
+
 [![Node.js][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Redux][Redux]][Redux-url] [![Redux-Saga][Reduxsaga]][Reduxsaga-url] [![p5][p5.js]][p5-url] [![Postgres][postgres]][postgres-url] [![Heroku][heroku]][heroku-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
