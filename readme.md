@@ -4,7 +4,7 @@
 Languages
 </h2>
 
-[Javascript][Javascript] [Java][Java] [C#][C#] [Go][Go] [SQL][SQL] [Powershell][Powershell] [Bash][Bash]
+[![Javascript]][Javascript] [![Java]][Java] [![C#]][C#] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash]
 
 <h2>
 Technologies
