@@ -1,18 +1,27 @@
+<h2>
+  Socials
+</h2>
+
+[![CodeWars][codewars]][codewars-url]
+
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <h2>
 Languages
 </h2>
 
-[![Javascript]][Javascript] [![Java]][Java] [![C Sharp]][C Sharp] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash]
+[![Javascript]][Javascript] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash]
 
 <h2>
 Technologies
 </h2>
 
-[![Node.js][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Redux][Redux]][Redux-url] [![.Net][Net]][Net-url] [![Redux-Saga][Reduxsaga]][Reduxsaga-url] [![p5][p5.js]][p5-url] [![Postgres][postgres]][postgres-url] [![Heroku][heroku]][heroku-url]
+[![Node.js][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![django][django]][django-url] [![React][React.js]][React-url] [![Redux][Redux]][Redux-url] [![Redux-Saga][Reduxsaga]][Reduxsaga-url] [![.Net][Net]][Net-url] [![p5][p5.js]][p5-url] [![Postgres][postgres]][postgres-url] [![Heroku][heroku]][heroku-url] [![Docker][docker]][docker-url] [![Linux][linux]][linux-url] [![Ubuntu][ubuntu]][ubuntu-url] [![Arch-Linux][arch]][arch-url] [![CentOS][centos]][centos-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
+
+[codewars]: https://www.codewars.com/users/sollambert/badges/small
+[codewars-url]: https://www.codewars.com/users/sollambert
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [product-screenshot]: https://https://github.com/sollambert/cloud-quest/blob/main/documentation/images/cloud_quest_screenshot.png
 [license-shield]: https://img.shields.io/github/license/sollambert/cloud-quest.svg?style=for-the-badge
@@ -25,6 +34,8 @@ Technologies
 [Node-url]: https://nodejs.org/
 [Express.js]: https://img.shields.io/badge/Express.js-30333a?style=for-the-badge&logo=express&logoColor=36CAFC
 [Express-url]: https://expressjs.com/
+[django]: https://img.shields.io/badge/django-20232A?style=for-the-badge&logo=django&logoColor=367353
+[django-url]: https://www.djangoproject.com/
 [postgres]: https://img.shields.io/badge/Postgres-20232A?style=for-the-badge&logo=postgresql&logoColor=2C6790
 [postgres-url]: https://www.postgresql.org/
 [Redux]: https://img.shields.io/badge/Redux-30333a?style=for-the-badge&logo=redux&logoColor=7747BA
@@ -37,12 +48,23 @@ Technologies
 [React-url]: https://reactjs.org/
 [Net]: https://img.shields.io/badge/%2ENET-20232A?style=for-the-badge&logo=dotnet&logoColor=61DAFB
 [Net-url]: https://dotnet.microsoft.com/en-us/
+[docker]: https://img.shields.io/badge/Docker-30333a?style=for-the-badge&logo=docker&logoColor=4796e6
+[docker-url]: https://www.docker.com/
+[linux]: https://img.shields.io/badge/Linux-30333a?style=for-the-badge&logo=linux&logoColor=d0d0d0
+[linux-url]: https://www.linuxfoundation.org/
+[ubuntu]: https://img.shields.io/badge/Ubuntu-30333a?style=for-the-badge&logo=ubuntu&logoColor=d95d33
+[ubuntu-url]: https://ubuntu.com/
+[arch]: https://img.shields.io/badge/Arch-30333a?style=for-the-badge&logo=archlinux&logoColor=418dc6
+[arch-url]: https://archlinux.org/
+[centos]: https://img.shields.io/badge/CentOS-20232a?style=for-the-badge&logo=centos&logoColor=965388
+[centos-url]: https://www.centos.org/
 
 <!-- Languages -->
 [Javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=EFD81D
+[Python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=d0d0d0
 [Java]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=oracle&logoColor=C84431
 [C Sharp]: https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp&logoColor=189f20
 [Go]: https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=00a7d0
 [SQL]: https://img.shields.io/badge/SQL-20232A?style=for-the-badge
 [Powershell]: https://img.shields.io/badge/Powershell-20232A?style=for-the-badge&logo=powershell&logoColor=1f77c7
-[Bash]: https://img.shields.io/badge/Bash-d0d0d0?style=for-the-badge&logo=gnubash&logoColor=272e35
+[Bash]: https://img.shields.io/badge/Bash-c0c0c0?style=for-the-badge&logo=gnubash&logoColor=272e35
