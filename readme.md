@@ -4,13 +4,13 @@
 Languages
 </h2>
 
-[![Javascript]][Javascript] [![Java]][Java] [![CSharp]][C#] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash]
+[![Javascript]][Javascript] [![Java]][Java] [![C Sharp]][C Sharp] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash]
 
 <h2>
 Technologies
 </h2>
 
-[![Node.js][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Redux][Redux]][Redux-url] [![Redux-Saga][Reduxsaga]][Reduxsaga-url] [![p5][p5.js]][p5-url] [![Postgres][postgres]][postgres-url] [![Heroku][heroku]][heroku-url]
+[![Node.js][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![React][React.js]][React-url] [![Redux][Redux]][Redux-url] [![.Net][Net]][Net-url] [![Redux-Saga][Reduxsaga]][Reduxsaga-url] [![p5][p5.js]][p5-url] [![Postgres][postgres]][postgres-url] [![Heroku][heroku]][heroku-url]
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
@@ -35,12 +35,14 @@ Technologies
 [heroku-url]: https://www.heroku.com/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
+[Net]: https://img.shields.io/badge/%2ENET-20232A?style=for-the-badge&logo=dotnet&logoColor=61DAFB
+[Net-url]: https://dotnet.microsoft.com/en-us/
 
 <!-- Languages -->
 [Javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=61DAFB
 [Java]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=oracle&logoColor=61DAFB
-[CSharp]: https://img.shields.io/badge/C#-20232A?style=for-the-badge&logo=csharp&logoColor=61DAFB
+[C Sharp]: https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp&logoColor=61DAFB
 [Go]: https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=61DAFB
-[SQL]: https://img.shields.io/badge/SQL-20232A?style=for-the-badge&logo=sql&logoColor=61DAFB
+[SQL]: https://img.shields.io/badge/SQL-20232A?style=for-the-badge
 [Powershell]: https://img.shields.io/badge/Powershell-20232A?style=for-the-badge&logo=powershell&logoColor=61DAFB
 [Bash]: https://img.shields.io/badge/Bash-20232A?style=for-the-badge&logo=gnubash&logoColor=61DAFB
