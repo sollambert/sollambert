@@ -10,7 +10,7 @@
 Languages
 </h2>
 
-[![Javascript]][Javascript] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash] [![HTML5]][HTML5] [![CSS3]][CSS3]
+[![Javascript]][Javascript] [![Typescript]][Typescript] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash] [![HTML5]][HTML5] [![CSS3]][CSS3]
 
 <h2>
 Technologies
@@ -61,6 +61,7 @@ Technologies
 
 <!-- Languages -->
 [Javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=EFD81D
+[Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=1f77c7
 [Python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=d0d0d0
 [Java]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=oracle&logoColor=C84431
 [C Sharp]: https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp&logoColor=189f20
