@@ -8,7 +8,7 @@
 
 ## Languages
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&hide_title=true&layout=compact&hide=HTML&card_width=200&theme=vision-friendly-dark) -->
-| <picture><img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&hide_title=true&layout=compact&hide=HTML&theme=vision-friendly-dark"/></picture> | [![Javascript]][Javascript] [![Typescript]][Typescript] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash] [![HTML5]][HTML5] [![CSS3]][CSS3] |
+| <picture><img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&hide_title=true&layout=compact&hide=HTML,CSS&theme=vision-friendly-dark"/></picture> | [![Javascript]][Javascript] [![Typescript]][Typescript] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash] [![HTML5]][HTML5] [![CSS3]][CSS3] |
 |-|-|
 
 ## Technologies
