@@ -1,11 +1,14 @@
+## Stats
+![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sollambert&show_icons=true&count_private=true&theme=tokyonight)
+
 ## Socials
 
 | [![LinkedIn][linkedin-shield]][linkedin-url] | [![CodeWars][codewars]][codewars-url] |
 |-|-|
 
 ## Languages
-
-| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&layout=compact&theme=vision-friendly-dark)](https://github.com/sollambert/github-readme-stats) | [![Javascript]][Javascript] [![Typescript]][Typescript] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash] [![HTML5]][HTML5] [![CSS3]][CSS3] |
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&hide_title=true&layout=compact&hide=HTML&card_width=200&theme=vision-friendly-dark) -->
+| <picture><img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&hide_title=true&layout=compact&hide=HTML&theme=vision-friendly-dark"/></picture> | [![Javascript]][Javascript] [![Typescript]][Typescript] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash] [![HTML5]][HTML5] [![CSS3]][CSS3] |
 |-|-|
 
 ## Technologies
@@ -13,7 +16,7 @@
 | [![Node.js][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![django][django]][django-url] [![React][React.js]][React-url] [![Redux][Redux]][Redux-url] [![Redux-Saga][Reduxsaga]][Reduxsaga-url] [![.Net][Net]][Net-url] [![p5][p5.js]][p5-url] [![Postgres][postgres]][postgres-url] [![Heroku][heroku]][heroku-url] [![Docker][docker]][docker-url] [![Linux][linux]][linux-url] [![Ubuntu][ubuntu]][ubuntu-url] [![Arch-Linux][arch]][arch-url] [![CentOS][centos]][centos-url] |
 |-|
 
-![](https://komarev.com/ghpvc/?username=sollambert&label=Visitors+Count&color=red)
+![](https://komarev.com/ghpvc/?username=sollambert&label=Visitors+Count&color=green&style=for-the-badge)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 
