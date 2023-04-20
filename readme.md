@@ -10,6 +10,8 @@
 Languages
 </h2>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&layout=compact&theme=vision-friendly-dark)](https://github.com/sollambert/github-readme-stats)
+
 [![Javascript]][Javascript] [![Typescript]][Typescript] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash] [![HTML5]][HTML5] [![CSS3]][CSS3]
 
 <h2>
