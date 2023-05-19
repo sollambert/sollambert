@@ -8,7 +8,7 @@
 
 ## Languages
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&hide_title=true&layout=compact&hide=HTML&card_width=200&theme=vision-friendly-dark) -->
-| <picture><img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&langs_count=6&hide_title=true&layout=compact&hide=HTML,CSS&theme=vision-friendly-dark"/></picture> | [![Javascript]][Javascript] [![Typescript]][Typescript] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash] [![HTML5]][HTML5] [![CSS3]][CSS3] |
+| <picture><img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&langs_count=6&hide_title=true&layout=compact&hide=HTML,CSS&theme=vision-friendly-dark"/></picture> | [![Javascript]][Javascript] [![Typescript]][Typescript] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Rust]][Rust] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash] [![HTML5]][HTML5] [![CSS3]][CSS3] |
 |-|-|
 
 ## Technologies
@@ -65,6 +65,7 @@
 [Python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=d0d0d0
 [Java]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=oracle&logoColor=C84431
 [C Sharp]: https://img.shields.io/badge/C%23-20232A?style=for-the-badge&logo=csharp&logoColor=189f20
+[Rust]: https://img.shields.io/badge/Rust-c8c8c8?style=for-the-badge&logo=rust&logoColor=111111
 [Go]: https://img.shields.io/badge/Go-20232A?style=for-the-badge&logo=go&logoColor=00a7d0
 [SQL]: https://img.shields.io/badge/SQL-20232A?style=for-the-badge
 [Powershell]: https://img.shields.io/badge/Powershell-20232A?style=for-the-badge&logo=powershell&logoColor=1f77c7
