@@ -8,12 +8,12 @@
 
 ## Languages
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&hide_title=true&layout=compact&hide=HTML&card_width=200&theme=vision-friendly-dark) -->
-| <picture><img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&langs_count=6&hide_title=true&layout=compact&hide=HTML,CSS&theme=vision-friendly-dark"/></picture> | [![Javascript]][Javascript] [![Typescript]][Typescript] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Rust]][Rust] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash] [![HTML5]][HTML5] [![CSS3]][CSS3] |
+| <picture><img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&langs_count=6&hide_title=true&layout=compact&hide=HTML,CSS&theme=vision-friendly-dark"/></picture> | [![Javascript]][Javascript] [![Typescript]][Typescript] [![PHP]][PHP] [![Python]][Python] [![Java]][Java] [![C Sharp]][C Sharp] [![Rust]][Rust] [![Go]][Go] [![SQL]][SQL] [![Powershell]][Powershell] [![Bash]][Bash] [![HTML5]][HTML5] [![CSS3]][CSS3] |
 |-|-|
 
 ## Technologies
 
-| [![Node.js][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![django][django]][django-url] [![React][React.js]][React-url] [![Redux][Redux]][Redux-url] [![Redux-Saga][Reduxsaga]][Reduxsaga-url] [![.Net][Net]][Net-url] [![p5][p5.js]][p5-url] [![Postgres][postgres]][postgres-url] [![Heroku][heroku]][heroku-url] [![Docker][docker]][docker-url] [![Linux][linux]][linux-url] [![Ubuntu][ubuntu]][ubuntu-url] [![Arch-Linux][arch]][arch-url] [![CentOS][centos]][centos-url] |
+| [![Node.js][Node.js]][Node-url] [![Express][Express.js]][Express-url] [![laravel][laravel]][laravel-url] [![django][django]][django-url] [![React][React.js]][React-url] [![Redux][Redux]][Redux-url] [![Redux-Saga][Reduxsaga]][Reduxsaga-url] [![.Net][Net]][Net-url] [![p5][p5.js]][p5-url] [![Postgres][postgres]][postgres-url] [![Heroku][heroku]][heroku-url] [![Docker][docker]][docker-url] [![Linux][linux]][linux-url] [![Ubuntu][ubuntu]][ubuntu-url] [![Arch-Linux][arch]][arch-url] [![CentOS][centos]][centos-url] |
 |-|
 
 ![](https://komarev.com/ghpvc/?username=sollambert&label=Visitors+Count&color=green&style=for-the-badge)
@@ -58,9 +58,12 @@
 [arch-url]: https://archlinux.org/
 [centos]: https://img.shields.io/badge/CentOS-20232a?style=for-the-badge&logo=centos&logoColor=965388
 [centos-url]: https://www.centos.org/
+[laravel]: https://img.shields.io/badge/Laravel-20232a?style=for-the-badge&logo=laravel&logoColor=CD5036
+[laravel-url]: https://laravel.com/
 
 <!-- Languages -->
 [Javascript]: https://img.shields.io/badge/Javascript-20232A?style=for-the-badge&logo=javascript&logoColor=EFD81D
+[PHP]: https://img.shields.io/badge/PHP-20232A?style=for-the-badge&logo=php&logoColor=7377AD
 [Typescript]: https://img.shields.io/badge/Typescript-20232A?style=for-the-badge&logo=typescript&logoColor=1f77c7
 [Python]: https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=d0d0d0
 [Java]: https://img.shields.io/badge/Java-20232A?style=for-the-badge&logo=oracle&logoColor=C84431
