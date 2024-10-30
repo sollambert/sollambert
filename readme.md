@@ -7,10 +7,12 @@
 [![Rust]][Rust] [![Bash]][Bash] [![Typescript]][Typescript] [![Javascript]][Javascript] [![C Sharp]][C Sharp] [![SQL]][SQL] [![HTML5]][HTML5] [![CSS3]][CSS3] [![Python]][Python] [![Powershell]][Powershell]
 
 ## Skills
+- Application Security
 - Architectural Design Patterns
 - Authorization/Authentication
 - Fullstack Engineering
 - Network Engineering
+- Network Security
 - Platform Engineering
 - Systems Administration
 
