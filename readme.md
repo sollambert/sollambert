@@ -128,7 +128,7 @@
 [godotengine]: https://img.shields.io/badge/Godot-30333a?style=for-the-badge&logo=godotengine&logoColor=407FB4
 [godotengine-url]: https://godotengine.org/
 [bevy]: https://img.shields.io/badge/bevy-30333a?style=for-the-badge&logo=bevy&logoColor=E9E9E9
-[bevy-url]: https://www.centos.org/
+[bevy-url]: https://bevyengine.org/
 <!-- Cool Libs -->
 [p5.js]: https://img.shields.io/badge/p5.js-30333a?style=for-the-badge&logo=p5dotjs&logoColor=F3245C
 [p5-url]: https://p5js.org/
