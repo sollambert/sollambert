@@ -1,5 +1,6 @@
 ## Stats
-![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sollambert&show_icons=true&count_private=true&theme=tokyonight) <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&langs_count=6&hide_title=true&layout=compact&hide=HTML,CSS&theme=vision-friendly-dark"/>
+| ![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sollambert&show_icons=true&count_private=true&theme=tokyonight) | <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&langs_count=6&hide_title=true&layout=compact&hide=HTML,CSS&theme=vision-friendly-dark"/> |
+|-|-|
 
 ## Languages
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&hide_title=true&layout=compact&hide=HTML&card_width=200&theme=vision-friendly-dark) -->
