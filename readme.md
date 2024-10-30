@@ -1,11 +1,9 @@
 ## Stats
-| ![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sollambert&show_icons=true&count_private=true&theme=tokyonight) | <picture><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&langs_count=6&hide_title=true&layout=compact&hide=HTML,CSS&theme=vision-friendly-dark"/></picture> |
-|-|-|
+![Solomon's GitHub stats](https://github-readme-stats.vercel.app/api?username=sollambert&show_icons=true&count_private=true&theme=tokyonight) <picture><img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&langs_count=6&hide_title=true&layout=compact&hide=HTML,CSS&theme=vision-friendly-dark"/></picture>
 
 ## Languages
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sollambert&hide_title=true&layout=compact&hide=HTML&card_width=200&theme=vision-friendly-dark) -->
-| [![Rust]][Rust] [![Bash]][Bash] [![Typescript]][Typescript] [![Javascript]][Javascript] [![C Sharp]][C Sharp] [![SQL]][SQL] [![HTML5]][HTML5] [![CSS3]][CSS3] [![Python]][Python] [![Powershell]][Powershell]|
-|-|
+[![Rust]][Rust] [![Bash]][Bash] [![Typescript]][Typescript] [![Javascript]][Javascript] [![C Sharp]][C Sharp] [![SQL]][SQL] [![HTML5]][HTML5] [![CSS3]][CSS3] [![Python]][Python] [![Powershell]][Powershell]
 
 ## Skills
 - Architectural Design Patterns
@@ -32,8 +30,8 @@
 
 ## Socials
 
-| [![LinkedIn][linkedin-shield]][linkedin-url] | [![CodeWars][codewars]][codewars-url] |
-|-|-|
+[![LinkedIn][linkedin-shield]][linkedin-url]
+[![CodeWars][codewars]][codewars-url]
 
 ![](https://komarev.com/ghpvc/?username=sollambert&label=Visitors+Count&color=green&style=for-the-badge)
 
@@ -146,7 +144,7 @@
 [HTML5]: https://img.shields.io/badge/HTML5-30333a?style=for-the-badge&logo=html5&logoColor=cc5434
 [CSS3]: https://img.shields.io/badge/CSS3-30333a?style=for-the-badge&logo=css3&logoColor=2950d5
 <!-- Socials -->
-[codewars]: https://www.codewars.com/users/sollambert/badges/small
+[codewars]: https://www.codewars.com/users/sollambert/badges/micro
 [codewars-url]: https://www.codewars.com/users/sollambert
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/sollambert
