@@ -18,7 +18,7 @@
 |||
 |:---:|:---|
 | Runtime Environments | [![tokio][tokio]][tokio-url] [![Node.js][Node.js]][Node-url] [![.Net][Net]][Net-url] |
-| Frontend Frameworks | [![yew][yew]][yew-url] [![React][React.js]][React-url] |
+| Frontend Frameworks | [![yew][yew]][yew-url] [![React][React.js]][React-url] [![laravel][laravel]][laravel-url] |
 | Backend Frameworks | [![axum][axum]][axum-url] [![Express][Express.js]][Express-url] [![netmvc][netmvc]][netmvc-url] |
 | Application Frameworks | [![tauri][tauri]][tauri-url] [![pwa][pwa]][pwa-url] |
 | State Management | [![Redux][Redux]][Redux-url] [![Redux-Saga][Reduxsaga]][Reduxsaga-url] [![reactquery][reactquery]][reactquery-url] |
